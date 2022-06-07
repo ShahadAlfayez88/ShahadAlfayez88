@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShahadAlfayez88
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js and PHP
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning Flutter and PHP
 - 📫 How to reach me in linkedin: ShahadAlfayez77
 
 <!---
